@@ -1,2 +1,2 @@
 # INFO343FinalProject
-Interactive database of my knowledge/skills/etc.
+Interactive database of my cumulative knowledge/skills/past projects/etc.
